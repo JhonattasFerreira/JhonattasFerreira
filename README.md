@@ -3,8 +3,7 @@
 👋 Hi, I'm Jhonattas Ferreira, a Software Engineer with a deep passion for programming and problem-solving. I enjoy exploring new technologies and using my knowledge to create personal projects, many of which you’ll find here on my GitHub.
 
 ### 👨‍💻 About Me
-- 💡 I’m especially interested in front-end development and back-end technologies.
-- 🌱 Currently exploring new ways to improve user experience and working with back-end development, particularly with Python.
+- 💡 I’m interested in front-end development and back-end technologies.
 - 📚 In my free time, I'm currently reading *The Nature of Code* and creating projects inspired by it.
 
 ### 🌐 Find Me Online
