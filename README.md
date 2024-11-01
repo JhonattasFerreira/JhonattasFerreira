@@ -1,16 +1,17 @@
-## Hi there 👋
+## Jhonattas Ferreira
 
-<!--
-**JhonattasFerreira/JhonattasFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Jhonattas Ferreira, a Software Engineer with a deep passion for programming and problem-solving. I enjoy exploring new technologies and using my knowledge to create personal projects, many of which you’ll find here on my GitHub.
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 💡 I’m especially interested in front-end development and back-end technologies.
+- 🌱 Currently exploring new ways to improve user experience and working with back-end development, particularly with Python.
+- 📚 In my free time, I'm currently reading *The Nature of Code* and creating projects inspired by it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Find Me Online
+- **Personal Website & Blog**: [jhocore.com](https://jhocore.com) — I share my thoughts on programming, projects, and more.
+- **LinkedIn**: [linkedin.com/in/jhonattasferreira](https://www.linkedin.com/in/jhonattasferreira/)
+
+### 📫 Get in Touch
+Feel free to reach out through my [LinkedIn](https://www.linkedin.com/in/jhonattasferreira/).
+
+Thanks for visiting.
